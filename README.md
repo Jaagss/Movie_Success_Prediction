@@ -12,7 +12,7 @@ For decision tree classifier: https://www.geeksforgeeks.org/decision-tree-implem
 For RandomForest classifer: https://www.geeksforgeeks.org/random-forest-classifier-using-scikit-learn/
 
 
-1. Data Extraction, ~ 1.1M movies data was scraped,                         :: DONE
+1. Data Extraction, ~ 1L movies data was scraped,                         :: DONE
 2. Pre processing, after this ~80k moveies data was left                    :: DONE
 3. Basic data visualisation                                                 :: DONE
 4. Data Transformations, Making data ready for model training               :: DONE
