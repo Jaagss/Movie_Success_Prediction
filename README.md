@@ -13,9 +13,11 @@ For decision tree classifier: https://www.geeksforgeeks.org/decision-tree-implem
 For RandomForest classifer: https://www.geeksforgeeks.org/random-forest-classifier-using-scikit-learn/
 
 
-1. Data Extraction, ~ 11L movies data was scraped,                         :: DONE
+1. Data Extraction, ~ 11L movies data was scraped,                          :: DONE
 2. Pre processing, after this ~80k moveies data was left                    :: DONE
 3. Basic data visualisation                                                 :: DONE
 4. Data Transformations, Making data ready for model training               :: DONE
 5. Lazy predict implemenation and checking how other model could perform    :: DONE
 6. Random Forest implementaion                                              :: DONE
+
+pip install numpy pandas scikit-learn matplotlib seaborn lazypredict
